@@ -1,7 +1,7 @@
 ## App de comandos
 
-Esta es una tarea
+Esta es una app para organizar tareas
 
---------------
+'''''''
 npm install
---------------
+'''''''
